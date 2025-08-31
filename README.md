@@ -2,11 +2,7 @@
 
 A robust Django REST Framework backend for SprintSync, an AI-powered task management system designed for engineering teams. This backend provides a clean, well-documented API with JWT authentication, task management, and AI integration.
 
-## 🚀 Live Demo
 
-- **Backend API**: [https://sprintsync-backend.onrender.com](https://sprintsync-backend.onrender.com)
-- **API Documentation**: [https://sprintsync-backend.onrender.com/api/schema/swagger-ui/](https://sprintsync-backend.onrender.com/api/schema/swagger-ui/)
-- **Frontend Application**: [https://sprintsync.vercel.app](https://sprintsync.vercel.app)
 
 ## ✨ Features
 
